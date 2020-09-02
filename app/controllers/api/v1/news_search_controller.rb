@@ -1,6 +1,7 @@
 class Api::V1::NewsSearchController < ApplicationController
   def index
-    render json: NewsSearchSerializer.new(NewsSearch.search(search_params[:search]))
+    results = NewsSearch.search(search_params[:search])
+    render json: NewsSearchSerializer.new(results).serialized_json
   end
 
   private
