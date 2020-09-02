@@ -29,5 +29,3 @@ group :development do
   gem 'listen', '~> 3.2'
   gem 'rubocop-rails'
 end
-
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
