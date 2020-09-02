@@ -3,11 +3,12 @@ class NewsSearch
     NewsSearch.new(collect_stories(search_term))
   end
 
-  attr_reader :id, :stories
+  attr_reader :id, :stories, :search_term
 
   def initialize(params)
     @id = params[:id]
     @stories = params[:stories]
+    @search_term = params[:search_term]
   end
 
   private
@@ -18,6 +19,6 @@ class NewsSearch
     stories[:response][:docs].each { |story| response << Story.new(story)}
     search_term = search_term.nil? ? "N/A" : search_term
     search = Search.create(search: search_term)
-    {id: search[:id], stories: response}
+    {id: search[:id], stories: response, search_term: search_term}
   end
 end

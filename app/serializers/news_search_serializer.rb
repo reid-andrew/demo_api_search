@@ -1,4 +1,4 @@
 class NewsSearchSerializer
   include FastJsonapi::ObjectSerializer
-  attributes :stories
+  attributes :search_term, :stories
 end

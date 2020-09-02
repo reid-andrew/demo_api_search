@@ -14,5 +14,9 @@ RSpec.describe 'News Search - ', type: :request do
 
     expect(response).to be_successful
     expect(response.status).to eq(200)
+    expect(output[:data][:attributes][:stories].count).to eq(10)
+    expect(output[:data][:id]).to eq(Search.last.id.to_s)
+    expect(output[:data][:attributes][:stories][0][:web_url]).to eq("https://www.nytimes.com/reuters/2020/09/02/world/europe/02reuters-health-coronavirus-greece-russia.html")
+
   end
 end
