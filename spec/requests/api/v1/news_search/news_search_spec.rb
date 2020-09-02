@@ -61,4 +61,16 @@ RSpec.describe 'News Search - ', type: :request do
     expect(output[:data][:attributes][:stories][0][:abstract]).to eq("There’s no denying his charm and genuine passion for baseball. But his habit of overstepping boundaries would have made him an uncomfortable presence if he had succeeded in purchasing the Mets.")
     expect(output[:data][:attributes][:stories][1][:web_url]).to eq("https://www.nytimes.com/2020/08/21/sports/baseball/coronavirus-mets-yankees.html")
   end
+
+  it 'returns stories unsorted if unacceptable sort term provided' do
+    get '/api/v1/news_search?sort=fail'
+
+    output = JSON.parse(response.body, symbolize_names: true)
+
+    expect(response).to be_successful
+    expect(response.status).to eq(200)
+    expect(output[:data][:attributes][:stories].count).to eq(10)
+    expect(output[:data][:id]).to eq(Search.last.id.to_s)
+    expect(output[:data][:attributes][:stories][0][:web_url]).to eq("https://www.nytimes.com/reuters/2020/09/02/world/europe/02reuters-health-coronavirus-greece-russia.html")
+  end
 end
