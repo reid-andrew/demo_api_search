@@ -9,8 +9,8 @@ class NytService
     def connection(search_term)
       url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json'
       Faraday.get(url) do |req|
-        req.params['q'] = search_term
         req.params['api-key'] = ENV['NYT_KEY']
+        req.params['q'] = search_term
       end
     end
 

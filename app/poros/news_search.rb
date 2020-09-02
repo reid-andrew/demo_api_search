@@ -1,8 +1,17 @@
 class NewsSearch
   class << self
     def search(search_term)
-      Search.new(search_term)
-      NytService.search_news(search_term)
+      collect_stories(search_term)
+    end
+
+    private
+
+    def collect_stories(search_term)
+      response = []
+      search = Search.create(search: search_term)
+      stories = NytService.search_news(search_term)
+      stories[:response][:docs].each { |story| response << Story.new(story)}
+      {id: search[:id], stories: response}
     end
   end
 end
