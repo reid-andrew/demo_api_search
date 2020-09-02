@@ -1,0 +1,332 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Greece will require visitors from Russia to show a negative COVID-19 test before entering the country between Sept. 7 and Sept. 21, its civil aviation authority said on Wednesday.",
+                "web_url": "https://www.nytimes.com/reuters/2020/09/02/world/europe/02reuters-health-coronavirus-greece-russia.html",
+                "snippet": "Greece will require visitors from Russia to show a negative COVID-19 test before entering the country between Sept. 7 and Sept. 21, its civil aviation authority said on Wednesday.",
+                "lead_paragraph": "ATHENS — Greece will require visitors from Russia to show a negative COVID-19 test before entering the country between Sept. 7 and Sept. 21, its civil aviation authority said on Wednesday.",
+                "source": "Reuters",
+                "multimedia": [],
+                "headline": {
+                    "main": "Greece Imposes Negative COVID-19 Test Rule for Visiting Russians",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Greece Imposes Negative COVID-19 Test Rule for Visiting Russians",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2020-09-02T17:30:42+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "World",
+                "subsection_name": "Europe",
+                "byline": {
+                    "original": "By Reuters",
+                    "person": [],
+                    "organization": "Reuters"
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/97592fe0-6d69-5dbe-916f-c542d2d24329",
+                "word_count": 123,
+                "uri": "nyt://article/97592fe0-6d69-5dbe-916f-c542d2d24329"
+            },
+            {
+                "abstract": "Authorities in Madrid shut down a coronavirus testing center for teachers on Wednesday after large crowds formed outside, while the health ministry diagnosed 3,663 new cases of the virus, down from a peak of nearly 10,000 recorded in Spain last Friday. ",
+                "web_url": "https://www.nytimes.com/reuters/2020/09/02/world/europe/02reuters-health-coronavirus-spain.html",
+                "snippet": "Authorities in Madrid shut down a coronavirus testing center for teachers on Wednesday after large crowds formed outside, while the health ministry diagnosed 3,663 new cases of the virus, down from a peak of nearly 10,000 recorded in Spain last Fr...",
+                "lead_paragraph": "MADRID — Authorities in Madrid shut down a coronavirus testing center for teachers on Wednesday after large crowds formed outside, while the health ministry diagnosed 3,663 new cases of the virus, down from a peak of nearly 10,000 recorded in Spain last Friday. ",
+                "source": "Reuters",
+                "multimedia": [],
+                "headline": {
+                    "main": "Madrid Shuts Teacher Testing Center as Virus Fears Grow",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Madrid Shuts Teacher Testing Center as Virus Fears Grow",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2020-09-02T17:30:40+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "World",
+                "subsection_name": "Europe",
+                "byline": {
+                    "original": "By Reuters",
+                    "person": [],
+                    "organization": "Reuters"
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/5f3a9f68-be5d-5747-ae4a-31a19f220b84",
+                "word_count": 331,
+                "uri": "nyt://article/5f3a9f68-be5d-5747-ae4a-31a19f220b84"
+            },
+            {
+                "abstract": "Four members of Congress sent a letter to NFL Commissioner Roger Goodell on Wednesday questioning the league's formula for making concussion settlement payments to Black former players.",
+                "web_url": "https://www.nytimes.com/aponline/2020/09/02/sports/football/ap-fbn-congress-letter.html",
+                "snippet": "Four members of Congress sent a letter to NFL Commissioner Roger Goodell on Wednesday questioning the league's formula for making concussion settlement payments to Black former players.",
+                "lead_paragraph": "WASHINGTON — Four members of Congress sent a letter to NFL Commissioner Roger Goodell on Wednesday questioning the league's formula for making concussion settlement payments to Black former players.",
+                "source": "AP",
+                "multimedia": [],
+                "headline": {
+                    "main": "4 Members of Congress Question NFL on Concussion Payments",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "4 Members of Congress Question NFL on Concussion Payments",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2020-09-02T17:30:33+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Sports",
+                "subsection_name": "Pro Football",
+                "byline": {
+                    "original": "By The Associated Press",
+                    "person": [],
+                    "organization": "The Associated Press"
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/2c1d8316-840e-5e0e-be86-46e99623936c",
+                "word_count": 490,
+                "uri": "nyt://article/2c1d8316-840e-5e0e-be86-46e99623936c"
+            },
+            {
+                "abstract": "President Donald Trump's reelection campaign and the Republican Party sued Montana on Wednesday over Democratic Gov. Steve Bullock's plan giving counties the choice to use all mail ballots this November. ",
+                "web_url": "https://www.nytimes.com/aponline/2020/09/02/us/ap-us-trump-mail-voting-montana-lawsuit.html",
+                "snippet": "President Donald Trump's reelection campaign and the Republican Party sued Montana on Wednesday over Democratic Gov. Steve Bullock's plan giving counties the choice to use all mail ballots this November. ",
+                "lead_paragraph": "HELENA, Mont. — President Donald Trump's reelection campaign and the Republican Party sued Montana on Wednesday over Democratic Gov. Steve Bullock's plan giving counties the choice to use all mail ballots this November. ",
+                "source": "AP",
+                "multimedia": [],
+                "headline": {
+                    "main": "GOP and Trump Campaign Sue Montana Over All-Mail Voting",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "GOP and Trump Campaign Sue Montana Over All-Mail Voting",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2020-09-02T17:27:39+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "U.S.",
+                "byline": {
+                    "original": "By The Associated Press",
+                    "person": [],
+                    "organization": "The Associated Press"
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/1e2d8892-1790-56cb-816e-9fc12002b6d5",
+                "word_count": 422,
+                "uri": "nyt://article/1e2d8892-1790-56cb-816e-9fc12002b6d5"
+            },
+            {
+                "abstract": "Italy’s former prime minister Silvio Berlusconi has tested positive for COVID-19 after a precautionary check, his press office said on Wednesday.",
+                "web_url": "https://www.nytimes.com/aponline/2020/09/02/world/europe/ap-eu-virus-outbreak-italy.html",
+                "snippet": "Italy’s former prime minister Silvio Berlusconi has tested positive for COVID-19 after a precautionary check, his press office said on Wednesday.",
+                "lead_paragraph": "ROME — Italy’s former prime minister Silvio Berlusconi has tested positive for COVID-19 after a precautionary check, his press office said on Wednesday.",
+                "source": "AP",
+                "multimedia": [],
+                "headline": {
+                    "main": "Former Italian Premier Berlusconi Tests Positive for COVID",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Former Italian Premier Berlusconi Tests Positive for COVID",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2020-09-02T17:24:35+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "World",
+                "subsection_name": "Europe",
+                "byline": {
+                    "original": "By The Associated Press",
+                    "person": [],
+                    "organization": "The Associated Press"
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/cf327867-897c-569a-b5fb-e041d77918d0",
+                "word_count": 118,
+                "uri": "nyt://article/cf327867-897c-569a-b5fb-e041d77918d0"
+            },
+            {
+                "abstract": "The Czech Republic's Marketa Vondrousova crashed out of the U.S. Open in the second round when Belarusian Aliaksandra Sasnovich  beat the 12th seed 6-1 6-2 on Wednesday.",
+                "web_url": "https://www.nytimes.com/reuters/2020/09/02/sports/tennis/02reuters-tennis-usopen-von.html",
+                "snippet": "The Czech Republic's Marketa Vondrousova crashed out of the U.S. Open in the second round when Belarusian Aliaksandra Sasnovich  beat the 12th seed 6-1 6-2 on Wednesday.",
+                "lead_paragraph": "(Reuters) - The Czech Republic's Marketa Vondrousova crashed out of the U.S. Open in the second round when Belarusian Aliaksandra Sasnovich beat the 12th seed 6-1 6-2 on Wednesday.",
+                "source": "Reuters",
+                "multimedia": [],
+                "headline": {
+                    "main": "Vondrousova Crashes Out at U.S. Open",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Vondrousova Crashes Out at U.S. Open",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2020-09-02T17:22:13+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Sports",
+                "subsection_name": "Tennis",
+                "byline": {
+                    "original": "By Reuters",
+                    "person": [],
+                    "organization": "Reuters"
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/e2076ea9-b58a-5cba-92a4-4901ecd96d61",
+                "word_count": 140,
+                "uri": "nyt://article/e2076ea9-b58a-5cba-92a4-4901ecd96d61"
+            },
+            {
+                "abstract": "British Prime Minister Boris Johnson demanded Russia explain what happened to Alexei Navalny, a leading critic of President Vladimir Putin said by Germany to have been poisoned with a nerve agent, and pledged to work to ensure justice is done.",
+                "web_url": "https://www.nytimes.com/reuters/2020/09/02/world/europe/02reuters-russia-politics-nalvany-britain-johnson.html",
+                "snippet": "British Prime Minister Boris Johnson demanded Russia explain what happened to Alexei Navalny, a leading critic of President Vladimir Putin said by Germany to have been poisoned with a nerve agent, and pledged to work to ensure justice is done.",
+                "lead_paragraph": "LONDON — British Prime Minister Boris Johnson demanded Russia explain what happened to Alexei Navalny, a leading critic of President Vladimir Putin said by Germany to have been poisoned with a nerve agent, and pledged to work to ensure justice is done.",
+                "source": "Reuters",
+                "multimedia": [],
+                "headline": {
+                    "main": "UK PM Johnson Says He Will Work for Justice for Putin Critic Navalny",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "UK PM Johnson Says He Will Work for Justice for Putin Critic Navalny",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2020-09-02T17:22:10+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "World",
+                "subsection_name": "Europe",
+                "byline": {
+                    "original": "By Reuters",
+                    "person": [],
+                    "organization": "Reuters"
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/b10b88a5-3f62-5aaf-b6ea-fe7969d4f343",
+                "word_count": 83,
+                "uri": "nyt://article/b10b88a5-3f62-5aaf-b6ea-fe7969d4f343"
+            },
+            {
+                "abstract": "The White House on Wednesday called \"completely reprehensible\" findings that Russian opposition leader Alexei Navalny was poisoned with a Novichok nerve agent.",
+                "web_url": "https://www.nytimes.com/reuters/2020/09/02/world/europe/02reuters-russia-politics-navaly-usa.html",
+                "snippet": "The White House on Wednesday called \"completely reprehensible\" findings that Russian opposition leader Alexei Navalny was poisoned with a Novichok nerve agent.",
+                "lead_paragraph": "WASHINGTON — The White House on Wednesday called \"completely reprehensible\" findings that Russian opposition leader Alexei Navalny was poisoned with a Novichok nerve agent.",
+                "source": "Reuters",
+                "multimedia": [],
+                "headline": {
+                    "main": "Poisoning of Russian Opposition Leader 'Completely Reprehensible': White House",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Poisoning of Russian Opposition Leader 'Completely Reprehensible': White House",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2020-09-02T17:22:05+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "World",
+                "subsection_name": "Europe",
+                "byline": {
+                    "original": "By Reuters",
+                    "person": [],
+                    "organization": "Reuters"
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/ec28ff9a-55fa-579e-9387-0557c358f92a",
+                "word_count": 75,
+                "uri": "nyt://article/ec28ff9a-55fa-579e-9387-0557c358f92a"
+            },
+            {
+                "abstract": "The United States has no reason to doubt the German government's  assessment that a Novichok nerve agent was used to poison Alexei Navalny, a prominent critic of Russian President Vladimir Putin, a U.S. government source familiar with U.S. intelligence reporting and analysis said on Wednesday.",
+                "web_url": "https://www.nytimes.com/reuters/2020/09/02/world/europe/02reuters-russia-politics-navalny-novichok.html",
+                "snippet": "The United States has no reason to doubt the German government's  assessment that a Novichok nerve agent was used to poison Alexei Navalny, a prominent critic of Russian President Vladimir Putin, a U.S. government source familiar with U.S. intelli...",
+                "lead_paragraph": "WASHINGTON — The United States has no reason to doubt the German government's assessment that a Novichok nerve agent was used to poison Alexei Navalny, a prominent critic of Russian President Vladimir Putin, a U.S. government source familiar with U.S. intelligence reporting and analysis said on Wednesday.",
+                "source": "Reuters",
+                "multimedia": [],
+                "headline": {
+                    "main": "U.S. Has No Reason to Doubt German View Novichok Used Against Navalny: Source",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "U.S. Has No Reason to Doubt German View Novichok Used Against Navalny: Source",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2020-09-02T17:22:02+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "World",
+                "subsection_name": "Europe",
+                "byline": {
+                    "original": "By Reuters",
+                    "person": [],
+                    "organization": "Reuters"
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/8bf6b206-dc02-58a3-b8eb-feb4cc7c9ee9",
+                "word_count": 121,
+                "uri": "nyt://article/8bf6b206-dc02-58a3-b8eb-feb4cc7c9ee9"
+            },
+            {
+                "abstract": "Former champion Angelique Kerber came through a fierce all-German tussle against Anna-Lena Friedsam 6-3 7-6(6) on Wednesday to book her place in the third round of the U.S. Open.",
+                "web_url": "https://www.nytimes.com/reuters/2020/09/02/sports/tennis/02reuters-tennis-usopen.html",
+                "snippet": "Former champion Angelique Kerber came through a fierce all-German tussle against Anna-Lena Friedsam 6-3 7-6(6) on Wednesday to book her place in the third round of the U.S. Open.",
+                "lead_paragraph": "NEW YORK — Former champion Angelique Kerber came through a fierce all-German tussle against Anna-Lena Friedsam 6-3 7-6(6) on Wednesday to book her place in the third round of the U.S. Open.",
+                "source": "Reuters",
+                "multimedia": [],
+                "headline": {
+                    "main": "Kerber Battles Past Friedsam to Reach Third Round",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Kerber Battles Past Friedsam to Reach Third Round",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2020-09-02T17:22:01+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Sports",
+                "subsection_name": "Tennis",
+                "byline": {
+                    "original": "By Reuters",
+                    "person": [],
+                    "organization": "Reuters"
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/f850667b-8503-57c6-95fe-330b525f7de6",
+                "word_count": 225,
+                "uri": "nyt://article/f850667b-8503-57c6-95fe-330b525f7de6"
+            }
+        ],
+        "meta": {
+            "hits": 19868,
+            "offset": 0,
+            "time": 54
+        }
+    }
+}
